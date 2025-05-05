@@ -1,0 +1,19 @@
+label {
+    font-weight: 600;
+}
+
+.container {
+    margin-top: 5px;
+}
+
+.missing {
+    background-color: rgb(235, 184, 184);
+    line-height: 50px;
+    padding-left: 20px;
+    font-weight: 600;
+}
+
+i {
+    color: white;
+}
+
